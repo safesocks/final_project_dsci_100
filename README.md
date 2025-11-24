@@ -1,2 +1,4 @@
 # final_project_dsci_100
-group project repository for project files &amp; collab
+Group collaboration repository
+Members: Claire Pinckney 23781651, Parnisha Grewal .student#., Ansh Taparia .student#., Callum Lee .student#.
+Project question:
