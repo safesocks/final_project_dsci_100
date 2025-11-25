@@ -5,4 +5,4 @@ collaboration textbook chapter link https://datasciencebook.ca/version-control.h
 
 - Members: Claire Pinckney 23781651, Parnisha Grewal .student#., Ansh Taparia .student#., Callum Lee .student#.
   
-- Project question:
+- Project question: see "Issues" tab
